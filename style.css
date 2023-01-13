@@ -1,0 +1,77 @@
+html{
+	background-color:#111111 ;
+}
+.netf{
+	color: red;
+	font-family: times new roman;
+	font-weight: bold;
+
+}
+legend{
+	color: white;
+	font-family: calibri;
+	margin-left: 5px;
+
+}
+input{
+	background-color: #333333;
+	color: #555555;
+	padding: 5px 300px 5px 0px;
+	margin-bottom:10px ;
+	font-size: 15px;
+}
+.sign-up{
+	color: white;
+	font-family: calibri;
+
+}
+.new{
+	font-family: calibri;
+	color:#555555;
+
+}
+p{
+	font-family: calibri;
+	color: #555555;
+
+}
+.help{
+	font-family: calibri;
+	color: #555555;
+	position: relative;
+	bottom: 5px;
+}
+.help2{
+	position: absolute;
+	left:150px ;
+
+}
+.quest{
+	position: relative;
+	
+}
+a{
+	color: #555555;
+
+}
+button{
+	background-color: red;
+	font-family: times new roman;
+	size: 50px;
+	padding: 5px 100px 5px 100px;
+	font-size: 20px;
+	position: relative;
+	left: 120px;
+}
+.help1{
+position: relative;
+top:58px;
+}
+.checkbox{
+	color: #555555;
+	justify-content: space-around;
+
+}
+.checkbox{
+	color: #555555;
+}

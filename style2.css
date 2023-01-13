@@ -1,0 +1,54 @@
+.logo{
+	color: red;
+	font-family: times new roman;
+	font-size: 80px;
+	position: relative;
+	bottom: 10px;
+	margin-top:3px ;
+}
+.categ{
+	position: absolute;
+	left: 1200px;
+	top: 20px;
+
+
+}
+html{
+	background-color: #111111;
+	color: white;
+}
+.images{
+	width: 200px;	
+	height: 250PX;
+	margin: 5px;
+}
+.wedn{
+	position: relative;
+	left: 500px;
+	bottom: 650px;
+	border: transparent;
+	width: 700px;
+	font-size: 20px;
+
+
+}
+.buttn{
+	background-color: red;
+	width: 300px;
+	height: 50px;
+	color: white;
+	font-size: 20px;
+	border-radius: 20px;
+	margin-right: 10px;
+	margin-top: 30px;
+}
+.add{
+	color: white;
+	 background-color: green;
+	  width: 200px;
+ 		height: 50px;
+ 		 border-radius: 50px;
+ 		 margin-top: 30px;
+
+}
+
